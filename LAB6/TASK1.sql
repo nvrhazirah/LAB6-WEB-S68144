@@ -1,0 +1,1 @@
+SELECT * FROM csf3108.author;
